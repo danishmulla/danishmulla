@@ -50,7 +50,7 @@ A machine-learning project exploring stock price prediction and data-driven anal
 ## 📫 Connect With Me
 
 - 📧 **Email:** [danishmulla003@gmail.com](mailto:danishmulla003@gmail.com)
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/danish-mulla-412373308/)
 
 ## 👀 Profile Views
 
